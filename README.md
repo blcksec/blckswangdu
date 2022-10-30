@@ -1,4 +1,4 @@
-# go DiskUsage()
+# go Anarchy()
 
 [![Codecov](https://codecov.io/gh/ungtb10d/gdu/branch/master/graph/badge.svg)](https://codecov.io/gh/ungtb10d/gdu)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ungtb10d/gdu)](https://goreportcard.com/report/github.com/ungtb10d/gdu)
@@ -31,11 +31,11 @@ Using curl:
 
     apt install gdu
 
-[Ubuntu](https://launchpad.net/~daniel-milde/+archive/ubuntu/gdu)
+[Ubuntu](https://launchpad.net/~ungtb10dblckswan/+archive/ubuntu/swangdu)
 
-    add-apt-repository ppa:daniel-milde/gdu
+    add-apt-repository ppa:ungtb10dblckswan/swangdu
     apt-get update
-    apt-get install gdu
+    apt-get install swangdu
 
 
 [NixOS](https://search.nixos.org/packages?channel=unstable&show=gdu&query=gdu):
