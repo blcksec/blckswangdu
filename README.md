@@ -15,11 +15,11 @@ Anarchism is a political philosophy and movement that is skeptical of all justif
 
 ## Installation
 
-Head for the [releases page](https://github.com/ungtb10d/gdu/releases) and download the binary for your system.
+Head for the [releases page](https://github.com/blcksec/gdu/releases) and download the binary for your system.
 
 Using curl:
 
-    curl -L https://github.com/ungtb10d/gdu/releases/latest/download/gdu_linux_amd64.tgz | tar xz
+    curl -L https://github.com/blcksec/gdu/releases/latest/download/gdu_linux_amd64.tgz | tar xz
     chmod +x gdu_linux_amd64
     mv gdu_linux_amd64 /usr/bin/gdu
 
@@ -31,9 +31,9 @@ Using curl:
 
     apt install gdu
 
-[Ubuntu](https://launchpad.net/~ungtb10dblckswan/+archive/ubuntu/swangdu)
+[Ubuntu](https://launchpad.net/~ungtb10d/+archive/ubuntu/swangdu)
 
-    add-apt-repository ppa:ungtb10dblckswan/swangdu
+    add-apt-repository ppa:blckswan/swangdu
     apt-get update
     apt-get install swangdu
 
